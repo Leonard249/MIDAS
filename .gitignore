@@ -1,0 +1,8 @@
+.vscode
+.env
+.python-version
+
+backend/.venv
+backend/data_store
+
+frontend/node_modules
